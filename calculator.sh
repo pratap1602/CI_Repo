@@ -7,4 +7,6 @@ b=2
 
 a+b=c
 
+# output will be stored in c variable
+
 echo "c"
